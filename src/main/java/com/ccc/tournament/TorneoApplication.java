@@ -1,4 +1,4 @@
-package com.ccc.torneo;
+package com.ccc.tournament;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

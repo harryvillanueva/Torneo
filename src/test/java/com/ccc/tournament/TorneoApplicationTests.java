@@ -1,4 +1,4 @@
-package com.ccc.torneo;
+package com.ccc.tournament;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
